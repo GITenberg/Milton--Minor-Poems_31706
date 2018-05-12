@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '35421'
     url: http://www.gutenberg.org/2009/agents/35421
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31706#Milton--Minor-Poems
 gutenberg_issued: '2010-03-20'
 gutenberg_type: Text
 identifiers:
