@@ -1,0 +1,33 @@
+_repo: Milton--Minor-Poems_31706
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Milton, John
+    birthdate: 1608
+    deathdate: 1674
+    gutenberg_agent_id: '17'
+    url: http://www.gutenberg.org/2009/agents/17
+    wikipedia: http://en.wikipedia.org/wiki/John_Milton
+  editor:
+    agent_name: Thurber, Samuel
+    birthdate: 1879
+    gutenberg_agent_id: '35421'
+    url: http://www.gutenberg.org/2009/agents/35421
+description: ''
+gutenberg_issued: '2010-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31706'
+  lccn: 01011789
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+title: 'Milton: Minor Poems'
+url: http://www.gutenberg.org/ebooks/31706
